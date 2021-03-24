@@ -1,0 +1,107 @@
+2021-03-23 00:00:29,778 INFO [root] [base.py (__init__:13] - 初始化浏览器<selenium.webdriver.chrome.webdriver.WebDriver (session="fe4d5ac31614a1d8849a1d8fc310d2d1")>
+2021-03-23 00:00:29,779 INFO [root] [page_login.py (login:18] - 正在登录，用户名：13911111111，密码：246810
+2021-03-23 00:00:29,779 INFO [root] [base.py (base_input:18] - 向元素：('css selector', '[placeholder="请输入手机号"]')输入信息:13911111111
+2021-03-23 00:00:29,779 INFO [root] [base.py (base_get_element:15] - 定位元素：('css selector', '[placeholder="请输入手机号"]')
+2021-03-23 00:00:32,130 INFO [root] [base.py (base_input:18] - 向元素：('css selector', '[placeholder="验证码"]')输入信息:246810
+2021-03-23 00:00:32,140 INFO [root] [base.py (base_get_element:15] - 定位元素：('css selector', '[placeholder="验证码"]')
+2021-03-23 00:00:34,464 INFO [root] [base.py (base_click:26] - 点击元素('xpath', '//*[text()="登录"]')
+2021-03-23 00:00:34,465 INFO [root] [base.py (base_get_element:15] - 定位元素：('xpath', '//*[text()="登录"]')
+2021-03-23 00:00:44,632 INFO [root] [base.py (__init__:13] - 初始化浏览器<selenium.webdriver.chrome.webdriver.WebDriver (session="6bbebc09483bf58486b54d87136adf17")>
+2021-03-23 00:00:44,632 INFO [root] [page_login.py (login:18] - 正在登录，用户名：13552285417，密码：246810
+2021-03-23 00:00:44,632 INFO [root] [base.py (base_input:18] - 向元素：('css selector', '[placeholder="请输入手机号"]')输入信息:13552285417
+2021-03-23 00:00:44,632 INFO [root] [base.py (base_get_element:15] - 定位元素：('css selector', '[placeholder="请输入手机号"]')
+2021-03-23 00:00:51,986 INFO [root] [base.py (base_input:18] - 向元素：('css selector', '[placeholder="验证码"]')输入信息:246810
+2021-03-23 00:00:51,986 INFO [root] [base.py (base_get_element:15] - 定位元素：('css selector', '[placeholder="验证码"]')
+2021-03-23 00:00:59,360 INFO [root] [base.py (base_click:26] - 点击元素('xpath', '//*[text()="登录"]')
+2021-03-23 00:00:59,360 INFO [root] [base.py (base_get_element:15] - 定位元素：('xpath', '//*[text()="登录"]')
+2021-03-23 00:01:10,309 INFO [root] [base.py (__init__:13] - 初始化浏览器<selenium.webdriver.chrome.webdriver.WebDriver (session="4be30d710591a4246644dd4071bd0e52")>
+2021-03-23 00:01:10,309 INFO [root] [page_login.py (login:18] - 正在登录，用户名：18811179159，密码：246810
+2021-03-23 00:01:10,309 INFO [root] [base.py (base_input:18] - 向元素：('css selector', '[placeholder="请输入手机号"]')输入信息:18811179159
+2021-03-23 00:01:10,309 INFO [root] [base.py (base_get_element:15] - 定位元素：('css selector', '[placeholder="请输入手机号"]')
+2021-03-23 00:01:12,667 INFO [root] [base.py (base_input:18] - 向元素：('css selector', '[placeholder="验证码"]')输入信息:246810
+2021-03-23 00:01:12,667 INFO [root] [base.py (base_get_element:15] - 定位元素：('css selector', '[placeholder="验证码"]')
+2021-03-23 00:01:14,995 INFO [root] [base.py (base_click:26] - 点击元素('xpath', '//*[text()="登录"]')
+2021-03-23 00:01:14,995 INFO [root] [base.py (base_get_element:15] - 定位元素：('xpath', '//*[text()="登录"]')
+2021-03-23 00:04:50,644 INFO [root] [base.py (__init__:13] - 初始化浏览器<selenium.webdriver.chrome.webdriver.WebDriver (session="e50da0bee62227f676cde26a7f9482a7")>
+2021-03-23 00:04:50,644 INFO [root] [page_login.py (login:18] - 正在登录，用户名：13911111111，密码：246810
+2021-03-23 00:04:50,644 INFO [root] [base.py (base_input:18] - 向元素：('css selector', '[placeholder="请输入手机号"]')输入信息:13911111111
+2021-03-23 00:04:50,644 INFO [root] [base.py (base_get_element:15] - 定位元素：('css selector', '[placeholder="请输入手机号"]')
+2021-03-23 00:04:53,007 INFO [root] [base.py (base_input:18] - 向元素：('css selector', '[placeholder="验证码"]')输入信息:246810
+2021-03-23 00:04:53,007 INFO [root] [base.py (base_get_element:15] - 定位元素：('css selector', '[placeholder="验证码"]')
+2021-03-23 00:04:55,344 INFO [root] [base.py (base_click:26] - 点击元素('xpath', '//*[text()="登录"]')
+2021-03-23 00:04:55,344 INFO [root] [base.py (base_get_element:15] - 定位元素：('xpath', '//*[text()="登录"]')
+2021-03-23 00:04:58,397 ERROR [root] [test_a_login.py (test_login:27] - 断言失败，测试前台登录未通过
+2021-03-23 00:04:58,397 INFO [root] [base.py (__init__:13] - 初始化浏览器<selenium.webdriver.chrome.webdriver.WebDriver (session="e50da0bee62227f676cde26a7f9482a7")>
+2021-03-23 00:04:58,397 ERROR [root] [base.py (base_get_image:31] - 断言出错，正在截图
+2021-03-23 00:05:05,798 INFO [root] [base.py (__init__:13] - 初始化浏览器<selenium.webdriver.chrome.webdriver.WebDriver (session="89f5558a13cfbac36b0152a4c81a40d8")>
+2021-03-23 00:05:05,798 INFO [root] [page_login.py (login:18] - 正在登录，用户名：13552285417，密码：246810
+2021-03-23 00:05:05,798 INFO [root] [base.py (base_input:18] - 向元素：('css selector', '[placeholder="请输入手机号"]')输入信息:13552285417
+2021-03-23 00:05:05,798 INFO [root] [base.py (base_get_element:15] - 定位元素：('css selector', '[placeholder="请输入手机号"]')
+2021-03-23 00:05:10,737 INFO [root] [base.py (base_input:18] - 向元素：('css selector', '[placeholder="验证码"]')输入信息:246810
+2021-03-23 00:05:10,737 INFO [root] [base.py (base_get_element:15] - 定位元素：('css selector', '[placeholder="验证码"]')
+2021-03-23 00:05:13,094 INFO [root] [base.py (base_click:26] - 点击元素('xpath', '//*[text()="登录"]')
+2021-03-23 00:05:13,094 INFO [root] [base.py (base_get_element:15] - 定位元素：('xpath', '//*[text()="登录"]')
+2021-03-23 00:05:22,932 INFO [root] [base.py (__init__:13] - 初始化浏览器<selenium.webdriver.chrome.webdriver.WebDriver (session="b703eac7c411c6502b821ae5a8e5163f")>
+2021-03-23 00:05:22,932 INFO [root] [page_login.py (login:18] - 正在登录，用户名：18811179159，密码：246810
+2021-03-23 00:05:22,933 INFO [root] [base.py (base_input:18] - 向元素：('css selector', '[placeholder="请输入手机号"]')输入信息:18811179159
+2021-03-23 00:05:22,933 INFO [root] [base.py (base_get_element:15] - 定位元素：('css selector', '[placeholder="请输入手机号"]')
+2021-03-23 00:05:25,304 INFO [root] [base.py (base_input:18] - 向元素：('css selector', '[placeholder="验证码"]')输入信息:246810
+2021-03-23 00:05:25,304 INFO [root] [base.py (base_get_element:15] - 定位元素：('css selector', '[placeholder="验证码"]')
+2021-03-23 00:05:27,660 INFO [root] [base.py (base_click:26] - 点击元素('xpath', '//*[text()="登录"]')
+2021-03-23 00:05:27,660 INFO [root] [base.py (base_get_element:15] - 定位元素：('xpath', '//*[text()="登录"]')
+2021-03-23 00:15:31,968 INFO [root] [base.py (__init__:13] - 初始化浏览器<selenium.webdriver.chrome.webdriver.WebDriver (session="93065d3408fc7b43beda4733115356ef")>
+2021-03-23 00:15:31,968 INFO [root] [base.py (__init__:13] - 初始化浏览器<selenium.webdriver.chrome.webdriver.WebDriver (session="93065d3408fc7b43beda4733115356ef")>
+2021-03-23 00:15:31,968 INFO [root] [page_login.py (login:18] - 正在登录，用户名：13911111111，密码：246810
+2021-03-23 00:15:31,968 INFO [root] [base.py (base_input:18] - 向元素：('css selector', '[placeholder="请输入手机号"]')输入信息:13911111111
+2021-03-23 00:15:31,968 INFO [root] [base.py (base_get_element:15] - 定位元素：('css selector', '[placeholder="请输入手机号"]')
+2021-03-23 00:15:34,323 INFO [root] [base.py (base_input:18] - 向元素：('css selector', '[placeholder="验证码"]')输入信息:246810
+2021-03-23 00:15:34,324 INFO [root] [base.py (base_get_element:15] - 定位元素：('css selector', '[placeholder="验证码"]')
+2021-03-23 00:15:36,662 INFO [root] [base.py (base_click:26] - 点击元素('xpath', '//*[text()="登录"]')
+2021-03-23 00:15:36,662 INFO [root] [base.py (base_get_element:15] - 定位元素：('xpath', '//*[text()="登录"]')
+2021-03-23 00:15:39,702 INFO [root] [base.py (base_click:26] - 点击元素('xpath', "//*[text()='内容管理']")
+2021-03-23 00:15:39,702 INFO [root] [base.py (base_get_element:15] - 定位元素：('xpath', "//*[text()='内容管理']")
+2021-03-23 00:15:41,753 INFO [root] [base.py (base_click:26] - 点击元素('xpath', '//li[@class="el-submenu is-opened"]/ul[@class="el-menu el-menu--inline"]/li[1]')
+2021-03-23 00:15:41,754 INFO [root] [base.py (base_get_element:15] - 定位元素：('xpath', '//li[@class="el-submenu is-opened"]/ul[@class="el-menu el-menu--inline"]/li[1]')
+2021-03-23 00:15:41,799 INFO [root] [webbase.py (base_option:14] - 点击元素：('xpath', '//li[@class="el-submenu is-opened"]/ul[@class="el-menu el-menu--inline"]/li[1]')
+2021-03-23 00:15:43,809 INFO [root] [page_article.py (article:32] - 正在发布文章
+2021-03-23 00:15:43,809 INFO [root] [base.py (base_input:18] - 向元素：('xpath', '//div[@class="filter-item el-input"]/input[@class="el-input__inner"]')输入信息:test-20210321-01
+2021-03-23 00:15:43,809 INFO [root] [base.py (base_get_element:15] - 定位元素：('xpath', '//div[@class="filter-item el-input"]/input[@class="el-input__inner"]')
+2021-03-23 00:15:46,265 INFO [root] [base.py (base_input:18] - 向元素：('css selector', '[data-id="publishTinymce"]')输入信息:版本控制工具git使用
+2021-03-23 00:15:46,265 INFO [root] [base.py (base_get_element:15] - 定位元素：('css selector', '[data-id="publishTinymce"]')
+2021-03-23 00:15:48,687 INFO [root] [base.py (base_click:26] - 点击元素('xpath', '//div[@class="el-radio-group"]/label[4]/span[1]')
+2021-03-23 00:15:48,688 INFO [root] [base.py (base_get_element:15] - 定位元素：('xpath', '//div[@class="el-radio-group"]/label[4]/span[1]')
+2021-03-23 00:15:49,740 INFO [root] [base.py (base_click:26] - 点击元素('css selector', '.el-input--suffix')
+2021-03-23 00:15:49,740 INFO [root] [base.py (base_get_element:15] - 定位元素：('css selector', '.el-input--suffix')
+2021-03-23 00:15:51,795 INFO [root] [base.py (base_click:26] - 点击元素('xpath', '//*[text()="数据库"]')
+2021-03-23 00:15:51,795 INFO [root] [base.py (base_get_element:15] - 定位元素：('xpath', '//*[text()="数据库"]')
+2021-03-23 00:15:51,844 INFO [root] [webbase.py (base_option:14] - 点击元素：('xpath', '//*[text()="数据库"]')
+2021-03-23 00:15:53,856 INFO [root] [base.py (base_click:26] - 点击元素('xpath', '//*[text()="发表"]')
+2021-03-23 00:15:53,856 INFO [root] [base.py (base_get_element:15] - 定位元素：('xpath', '//*[text()="发表"]')
+2021-03-23 00:15:53,901 INFO [root] [base.py (base_get_element:15] - 定位元素：('xpath', '//div[@class="el-message el-message--success"]/p')
+2021-03-23 20:56:32,134 INFO [root] [base.py (__init__:13] - 初始化浏览器<selenium.webdriver.chrome.webdriver.WebDriver (session="c1fce4f1143f9d02e3b98b2d12736627")>
+2021-03-23 20:56:32,135 INFO [root] [page_login.py (login:17] - 正在登录，用户名：13911111111，密码：246810
+2021-03-23 20:56:32,135 INFO [root] [base.py (base_input:18] - 向元素：('css selector', '[placeholder="请输入手机号"]')输入信息:13911111111
+2021-03-23 20:56:32,135 INFO [root] [base.py (base_get_element:15] - 定位元素：('css selector', '[placeholder="请输入手机号"]')
+2021-03-23 20:56:34,524 INFO [root] [base.py (base_input:18] - 向元素：('css selector', '[placeholder="验证码"]')输入信息:246810
+2021-03-23 20:56:34,524 INFO [root] [base.py (base_get_element:15] - 定位元素：('css selector', '[placeholder="验证码"]')
+2021-03-23 20:56:36,889 INFO [root] [base.py (base_click:26] - 点击元素('xpath', '//*[text()="登录"]')
+2021-03-23 20:56:36,889 INFO [root] [base.py (base_get_element:15] - 定位元素：('xpath', '//*[text()="登录"]')
+2021-03-23 20:56:46,791 INFO [root] [base.py (__init__:13] - 初始化浏览器<selenium.webdriver.chrome.webdriver.WebDriver (session="a0db89e7075bd11669bd5a64a8bc17a8")>
+2021-03-23 20:56:46,792 INFO [root] [page_login.py (login:17] - 正在登录，用户名：13552285417，密码：246810
+2021-03-23 20:56:46,792 INFO [root] [base.py (base_input:18] - 向元素：('css selector', '[placeholder="请输入手机号"]')输入信息:13552285417
+2021-03-23 20:56:46,792 INFO [root] [base.py (base_get_element:15] - 定位元素：('css selector', '[placeholder="请输入手机号"]')
+2021-03-23 20:56:54,147 INFO [root] [base.py (base_input:18] - 向元素：('css selector', '[placeholder="验证码"]')输入信息:246810
+2021-03-23 20:56:54,147 INFO [root] [base.py (base_get_element:15] - 定位元素：('css selector', '[placeholder="验证码"]')
+2021-03-23 20:57:01,510 INFO [root] [base.py (base_click:26] - 点击元素('xpath', '//*[text()="登录"]')
+2021-03-23 20:57:01,510 INFO [root] [base.py (base_get_element:15] - 定位元素：('xpath', '//*[text()="登录"]')
+2021-03-23 20:57:11,487 INFO [root] [base.py (__init__:13] - 初始化浏览器<selenium.webdriver.chrome.webdriver.WebDriver (session="1495c199c27a3ccca32ef754c5fd0006")>
+2021-03-23 20:57:11,487 INFO [root] [page_login.py (login:17] - 正在登录，用户名：18811179159，密码：246810
+2021-03-23 20:57:11,487 INFO [root] [base.py (base_input:18] - 向元素：('css selector', '[placeholder="请输入手机号"]')输入信息:18811179159
+2021-03-23 20:57:11,487 INFO [root] [base.py (base_get_element:15] - 定位元素：('css selector', '[placeholder="请输入手机号"]')
+2021-03-23 20:57:13,850 INFO [root] [base.py (base_input:18] - 向元素：('css selector', '[placeholder="验证码"]')输入信息:246810
+2021-03-23 20:57:13,850 INFO [root] [base.py (base_get_element:15] - 定位元素：('css selector', '[placeholder="验证码"]')
+2021-03-23 20:57:21,236 INFO [root] [base.py (base_click:26] - 点击元素('xpath', '//*[text()="登录"]')
+2021-03-23 20:57:21,236 INFO [root] [base.py (base_get_element:15] - 定位元素：('xpath', '//*[text()="登录"]')
+2021-03-23 20:57:24,290 ERROR [root] [test_a_login.py (test_login:26] - 断言失败，测试前台登录未通过
+2021-03-23 20:57:24,290 INFO [root] [base.py (__init__:13] - 初始化浏览器<selenium.webdriver.chrome.webdriver.WebDriver (session="1495c199c27a3ccca32ef754c5fd0006")>
+2021-03-23 20:57:24,291 ERROR [root] [base.py (base_get_image:31] - 断言出错，正在截图

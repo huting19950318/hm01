@@ -1,0 +1,155 @@
+2021-03-20 18:49:53,525 INFO [root] [base.py (__init__:13] - 初始化浏览器
+2021-03-20 18:49:53,525 INFO [root] [base.py (base_input:18] - 输入信息
+2021-03-20 18:49:53,526 INFO [root] [base.py (base_get_element:15] - 定位元素：('css selector', '[placeholder="请输入手机号"]')
+2021-03-20 18:49:55,891 INFO [root] [base.py (base_input:18] - 输入信息
+2021-03-20 18:49:55,891 INFO [root] [base.py (base_get_element:15] - 定位元素：('css selector', '[placeholder="验证码"]')
+2021-03-20 18:49:58,237 INFO [root] [base.py (base_click:26] - 点击登录
+2021-03-20 18:49:58,237 INFO [root] [base.py (base_get_element:15] - 定位元素：('xpath', '//*[text()="登录"]')
+2021-03-20 18:50:08,308 INFO [root] [base.py (__init__:13] - 初始化浏览器
+2021-03-20 18:50:08,309 INFO [root] [base.py (base_input:18] - 输入信息
+2021-03-20 18:50:08,309 INFO [root] [base.py (base_get_element:15] - 定位元素：('css selector', '[placeholder="请输入手机号"]')
+2021-03-20 18:50:10,668 INFO [root] [base.py (base_input:18] - 输入信息
+2021-03-20 18:50:10,668 INFO [root] [base.py (base_get_element:15] - 定位元素：('css selector', '[placeholder="验证码"]')
+2021-03-20 18:50:13,003 INFO [root] [base.py (base_click:26] - 点击登录
+2021-03-20 18:50:13,004 INFO [root] [base.py (base_get_element:15] - 定位元素：('xpath', '//*[text()="登录"]')
+2021-03-20 18:50:22,957 INFO [root] [base.py (__init__:13] - 初始化浏览器
+2021-03-20 18:50:22,957 INFO [root] [base.py (base_input:18] - 输入信息
+2021-03-20 18:50:22,957 INFO [root] [base.py (base_get_element:15] - 定位元素：('css selector', '[placeholder="请输入手机号"]')
+2021-03-20 18:50:25,322 INFO [root] [base.py (base_input:18] - 输入信息
+2021-03-20 18:50:25,323 INFO [root] [base.py (base_get_element:15] - 定位元素：('css selector', '[placeholder="验证码"]')
+2021-03-20 18:50:27,650 INFO [root] [base.py (base_click:26] - 点击登录
+2021-03-20 18:50:27,650 INFO [root] [base.py (base_get_element:15] - 定位元素：('xpath', '//*[text()="登录"]')
+2021-03-20 18:50:30,706 INFO [root] [base.py (__init__:13] - 初始化浏览器
+2021-03-20 20:08:17,019 INFO [root] [base.py (__init__:13] - 初始化浏览器
+2021-03-20 20:08:17,019 INFO [root] [base.py (base_input:18] - 输入信息
+2021-03-20 20:08:17,019 INFO [root] [base.py (base_get_element:15] - 定位元素：('css selector', '[placeholder="请输入手机号"]')
+2021-03-20 20:08:19,385 INFO [root] [base.py (base_input:18] - 输入信息
+2021-03-20 20:08:19,385 INFO [root] [base.py (base_get_element:15] - 定位元素：('css selector', '[placeholder="验证码"]')
+2021-03-20 20:08:28,641 INFO [root] [base.py (__init__:13] - 初始化浏览器
+2021-03-20 20:08:28,641 INFO [root] [base.py (base_input:18] - 输入信息
+2021-03-20 20:08:28,641 INFO [root] [base.py (base_get_element:15] - 定位元素：('css selector', '[placeholder="请输入手机号"]')
+2021-03-20 20:08:30,998 INFO [root] [base.py (base_input:18] - 输入信息
+2021-03-20 20:08:30,998 INFO [root] [base.py (base_get_element:15] - 定位元素：('css selector', '[placeholder="验证码"]')
+2021-03-20 20:08:40,884 INFO [root] [base.py (__init__:13] - 初始化浏览器
+2021-03-20 20:08:40,884 INFO [root] [base.py (base_input:18] - 输入信息
+2021-03-20 20:08:40,884 INFO [root] [base.py (base_get_element:15] - 定位元素：('css selector', '[placeholder="请输入手机号"]')
+2021-03-20 20:08:43,245 INFO [root] [base.py (base_input:18] - 输入信息
+2021-03-20 20:08:43,245 INFO [root] [base.py (base_get_element:15] - 定位元素：('css selector', '[placeholder="验证码"]')
+2021-03-20 20:12:19,336 INFO [root] [base.py (__init__:13] - 初始化浏览器
+2021-03-20 20:12:19,336 INFO [root] [base.py (base_input:18] - 输入信息
+2021-03-20 20:12:19,337 INFO [root] [base.py (base_get_element:15] - 定位元素：('css selector', '[placeholder="请输入手机号"]')
+2021-03-20 20:12:21,730 INFO [root] [base.py (base_input:18] - 输入信息
+2021-03-20 20:12:21,730 INFO [root] [base.py (base_get_element:15] - 定位元素：('css selector', '[placeholder="验证码"]')
+2021-03-20 20:12:31,428 INFO [root] [base.py (__init__:13] - 初始化浏览器
+2021-03-20 20:12:31,428 INFO [root] [base.py (base_input:18] - 输入信息
+2021-03-20 20:12:31,428 INFO [root] [base.py (base_get_element:15] - 定位元素：('css selector', '[placeholder="请输入手机号"]')
+2021-03-20 20:12:33,784 INFO [root] [base.py (base_input:18] - 输入信息
+2021-03-20 20:12:33,784 INFO [root] [base.py (base_get_element:15] - 定位元素：('css selector', '[placeholder="验证码"]')
+2021-03-20 20:12:42,995 INFO [root] [base.py (__init__:13] - 初始化浏览器
+2021-03-20 20:12:42,995 INFO [root] [base.py (base_input:18] - 输入信息
+2021-03-20 20:12:42,996 INFO [root] [base.py (base_get_element:15] - 定位元素：('css selector', '[placeholder="请输入手机号"]')
+2021-03-20 20:12:45,357 INFO [root] [base.py (base_input:18] - 输入信息
+2021-03-20 20:12:45,357 INFO [root] [base.py (base_get_element:15] - 定位元素：('css selector', '[placeholder="验证码"]')
+2021-03-20 20:14:18,762 INFO [root] [base.py (__init__:13] - 初始化浏览器
+2021-03-20 20:14:18,762 INFO [root] [base.py (base_input:18] - 输入信息
+2021-03-20 20:14:18,762 INFO [root] [base.py (base_get_element:15] - 定位元素：('css selector', '[placeholder="请输入手机号"]')
+2021-03-20 20:14:21,117 INFO [root] [base.py (base_input:18] - 输入信息
+2021-03-20 20:14:21,117 INFO [root] [base.py (base_get_element:15] - 定位元素：('css selector', '[placeholder="验证码"]')
+2021-03-20 20:14:30,723 INFO [root] [base.py (__init__:13] - 初始化浏览器
+2021-03-20 20:14:30,723 INFO [root] [base.py (base_input:18] - 输入信息
+2021-03-20 20:14:30,723 INFO [root] [base.py (base_get_element:15] - 定位元素：('css selector', '[placeholder="请输入手机号"]')
+2021-03-20 20:14:33,080 INFO [root] [base.py (base_input:18] - 输入信息
+2021-03-20 20:14:33,080 INFO [root] [base.py (base_get_element:15] - 定位元素：('css selector', '[placeholder="验证码"]')
+2021-03-20 20:14:42,358 INFO [root] [base.py (__init__:13] - 初始化浏览器
+2021-03-20 20:14:42,358 INFO [root] [base.py (base_input:18] - 输入信息
+2021-03-20 20:14:42,358 INFO [root] [base.py (base_get_element:15] - 定位元素：('css selector', '[placeholder="请输入手机号"]')
+2021-03-20 20:14:44,716 INFO [root] [base.py (base_input:18] - 输入信息
+2021-03-20 20:14:44,716 INFO [root] [base.py (base_get_element:15] - 定位元素：('css selector', '[placeholder="验证码"]')
+2021-03-20 20:18:20,837 INFO [root] [base.py (__init__:13] - 初始化浏览器
+2021-03-20 20:18:20,837 INFO [root] [base.py (base_input:18] - 输入信息
+2021-03-20 20:18:20,838 INFO [root] [base.py (base_get_element:15] - 定位元素：('css selector', '[placeholder="请输入手机号"]')
+2021-03-20 20:18:23,206 INFO [root] [base.py (base_input:18] - 输入信息
+2021-03-20 20:18:23,206 INFO [root] [base.py (base_get_element:15] - 定位元素：('css selector', '[placeholder="验证码"]')
+2021-03-20 20:18:25,551 INFO [root] [base.py (base_click:26] - 点击登录
+2021-03-20 20:18:25,551 INFO [root] [base.py (base_get_element:15] - 定位元素：('xpath', '//*[text()="登录"]')
+2021-03-20 20:18:35,618 INFO [root] [base.py (__init__:13] - 初始化浏览器
+2021-03-20 20:18:35,618 INFO [root] [base.py (base_input:18] - 输入信息
+2021-03-20 20:18:35,618 INFO [root] [base.py (base_get_element:15] - 定位元素：('css selector', '[placeholder="请输入手机号"]')
+2021-03-20 20:18:37,972 INFO [root] [base.py (base_input:18] - 输入信息
+2021-03-20 20:18:37,972 INFO [root] [base.py (base_get_element:15] - 定位元素：('css selector', '[placeholder="验证码"]')
+2021-03-20 20:18:40,326 INFO [root] [base.py (base_click:26] - 点击登录
+2021-03-20 20:18:40,326 INFO [root] [base.py (base_get_element:15] - 定位元素：('xpath', '//*[text()="登录"]')
+2021-03-20 20:18:50,298 INFO [root] [base.py (__init__:13] - 初始化浏览器
+2021-03-20 20:18:50,298 INFO [root] [base.py (base_input:18] - 输入信息
+2021-03-20 20:18:50,298 INFO [root] [base.py (base_get_element:15] - 定位元素：('css selector', '[placeholder="请输入手机号"]')
+2021-03-20 20:18:52,642 INFO [root] [base.py (base_input:18] - 输入信息
+2021-03-20 20:18:52,642 INFO [root] [base.py (base_get_element:15] - 定位元素：('css selector', '[placeholder="验证码"]')
+2021-03-20 20:18:54,996 INFO [root] [base.py (base_click:26] - 点击登录
+2021-03-20 20:18:54,996 INFO [root] [base.py (base_get_element:15] - 定位元素：('xpath', '//*[text()="登录"]')
+2021-03-20 20:27:12,828 INFO [root] [base.py (__init__:13] - 初始化浏览器
+2021-03-20 20:27:12,829 INFO [root] [base.py (base_input:18] - 输入信息
+2021-03-20 20:27:12,829 INFO [root] [base.py (base_get_element:15] - 定位元素：('css selector', '[placeholder="请输入手机号"]')
+2021-03-20 20:27:20,213 INFO [root] [base.py (base_input:18] - 输入信息
+2021-03-20 20:27:20,213 INFO [root] [base.py (base_get_element:15] - 定位元素：('css selector', '[placeholder="验证码"]')
+2021-03-20 20:27:26,408 INFO [root] [base.py (base_click:26] - 点击登录
+2021-03-20 20:27:26,408 INFO [root] [base.py (base_get_element:15] - 定位元素：('xpath', '//*[text()="登录"]')
+2021-03-20 20:27:29,467 INFO [root] [base.py (__init__:13] - 初始化浏览器
+2021-03-20 20:27:36,993 INFO [root] [base.py (__init__:13] - 初始化浏览器
+2021-03-20 20:27:36,993 INFO [root] [base.py (base_input:18] - 输入信息
+2021-03-20 20:27:36,993 INFO [root] [base.py (base_get_element:15] - 定位元素：('css selector', '[placeholder="请输入手机号"]')
+2021-03-20 20:27:39,354 INFO [root] [base.py (base_input:18] - 输入信息
+2021-03-20 20:27:39,355 INFO [root] [base.py (base_get_element:15] - 定位元素：('css selector', '[placeholder="验证码"]')
+2021-03-20 20:27:41,693 INFO [root] [base.py (base_click:26] - 点击登录
+2021-03-20 20:27:41,693 INFO [root] [base.py (base_get_element:15] - 定位元素：('xpath', '//*[text()="登录"]')
+2021-03-20 20:27:51,643 INFO [root] [base.py (__init__:13] - 初始化浏览器
+2021-03-20 20:27:51,643 INFO [root] [base.py (base_input:18] - 输入信息
+2021-03-20 20:27:51,643 INFO [root] [base.py (base_get_element:15] - 定位元素：('css selector', '[placeholder="请输入手机号"]')
+2021-03-20 20:27:54,001 INFO [root] [base.py (base_input:18] - 输入信息
+2021-03-20 20:27:54,001 INFO [root] [base.py (base_get_element:15] - 定位元素：('css selector', '[placeholder="验证码"]')
+2021-03-20 20:27:56,355 INFO [root] [base.py (base_click:26] - 点击登录
+2021-03-20 20:27:56,355 INFO [root] [base.py (base_get_element:15] - 定位元素：('xpath', '//*[text()="登录"]')
+2021-03-20 20:42:19,345 INFO [root] [base.py (__init__:13] - 初始化浏览器
+2021-03-20 20:42:19,346 INFO [root] [base.py (base_input:18] - 输入信息
+2021-03-20 20:42:19,346 INFO [root] [base.py (base_get_element:15] - 定位元素：('css selector', '[placeholder="请输入手机号"]')
+2021-03-20 20:42:21,725 INFO [root] [base.py (base_input:18] - 输入信息
+2021-03-20 20:42:21,725 INFO [root] [base.py (base_get_element:15] - 定位元素：('css selector', '[placeholder="验证码"]')
+2021-03-20 20:42:24,080 INFO [root] [base.py (base_click:26] - 点击登录
+2021-03-20 20:42:24,080 INFO [root] [base.py (base_get_element:15] - 定位元素：('xpath', '//*[text()="登录"]')
+2021-03-20 20:42:34,101 INFO [root] [base.py (__init__:13] - 初始化浏览器
+2021-03-20 20:42:34,101 INFO [root] [base.py (base_input:18] - 输入信息
+2021-03-20 20:42:34,101 INFO [root] [base.py (base_get_element:15] - 定位元素：('css selector', '[placeholder="请输入手机号"]')
+2021-03-20 20:42:36,460 INFO [root] [base.py (base_input:18] - 输入信息
+2021-03-20 20:42:36,461 INFO [root] [base.py (base_get_element:15] - 定位元素：('css selector', '[placeholder="验证码"]')
+2021-03-20 20:42:38,794 INFO [root] [base.py (base_click:26] - 点击登录
+2021-03-20 20:42:38,794 INFO [root] [base.py (base_get_element:15] - 定位元素：('xpath', '//*[text()="登录"]')
+2021-03-20 20:42:48,690 INFO [root] [base.py (__init__:13] - 初始化浏览器
+2021-03-20 20:42:48,690 INFO [root] [base.py (base_input:18] - 输入信息
+2021-03-20 20:42:48,690 INFO [root] [base.py (base_get_element:15] - 定位元素：('css selector', '[placeholder="请输入手机号"]')
+2021-03-20 20:42:51,059 INFO [root] [base.py (base_input:18] - 输入信息
+2021-03-20 20:42:51,059 INFO [root] [base.py (base_get_element:15] - 定位元素：('css selector', '[placeholder="验证码"]')
+2021-03-20 20:42:53,418 INFO [root] [base.py (base_click:26] - 点击登录
+2021-03-20 20:42:53,418 INFO [root] [base.py (base_get_element:15] - 定位元素：('xpath', '//*[text()="登录"]')
+2021-03-20 21:03:17,802 INFO [root] [base.py (__init__:13] - 初始化浏览器<selenium.webdriver.chrome.webdriver.WebDriver (session="0985537320842269d3cd11cd7c3afcea")>
+2021-03-20 21:03:17,802 INFO [root] [page_login.py (login:18] - 正在登录，用户名：13911111111，密码：246810
+2021-03-20 21:03:17,802 INFO [root] [base.py (base_input:18] - 向元素：('css selector', '[placeholder="请输入手机号"]')输入信息:13911111111
+2021-03-20 21:03:17,802 INFO [root] [base.py (base_get_element:15] - 定位元素：('css selector', '[placeholder="请输入手机号"]')
+2021-03-20 21:03:20,168 INFO [root] [base.py (base_input:18] - 向元素：('css selector', '[placeholder="验证码"]')输入信息:246810
+2021-03-20 21:03:20,168 INFO [root] [base.py (base_get_element:15] - 定位元素：('css selector', '[placeholder="验证码"]')
+2021-03-20 21:03:22,521 INFO [root] [base.py (base_click:26] - 点击元素('xpath', '//*[text()="登录"]')
+2021-03-20 21:03:22,521 INFO [root] [base.py (base_get_element:15] - 定位元素：('xpath', '//*[text()="登录"]')
+2021-03-20 21:03:32,978 INFO [root] [base.py (__init__:13] - 初始化浏览器<selenium.webdriver.chrome.webdriver.WebDriver (session="dc16abd5900531d0c6ada90e8f622712")>
+2021-03-20 21:03:32,978 INFO [root] [page_login.py (login:18] - 正在登录，用户名：13552285417，密码：246810
+2021-03-20 21:03:32,978 INFO [root] [base.py (base_input:18] - 向元素：('css selector', '[placeholder="请输入手机号"]')输入信息:13552285417
+2021-03-20 21:03:32,978 INFO [root] [base.py (base_get_element:15] - 定位元素：('css selector', '[placeholder="请输入手机号"]')
+2021-03-20 21:03:35,329 INFO [root] [base.py (base_input:18] - 向元素：('css selector', '[placeholder="验证码"]')输入信息:246810
+2021-03-20 21:03:35,329 INFO [root] [base.py (base_get_element:15] - 定位元素：('css selector', '[placeholder="验证码"]')
+2021-03-20 21:03:37,684 INFO [root] [base.py (base_click:26] - 点击元素('xpath', '//*[text()="登录"]')
+2021-03-20 21:03:37,684 INFO [root] [base.py (base_get_element:15] - 定位元素：('xpath', '//*[text()="登录"]')
+2021-03-20 21:03:47,767 INFO [root] [base.py (__init__:13] - 初始化浏览器<selenium.webdriver.chrome.webdriver.WebDriver (session="97d3d603157ac8821350447e6980bc72")>
+2021-03-20 21:03:47,767 INFO [root] [page_login.py (login:18] - 正在登录，用户名：18811179159，密码：246810
+2021-03-20 21:03:47,767 INFO [root] [base.py (base_input:18] - 向元素：('css selector', '[placeholder="请输入手机号"]')输入信息:18811179159
+2021-03-20 21:03:47,767 INFO [root] [base.py (base_get_element:15] - 定位元素：('css selector', '[placeholder="请输入手机号"]')
+2021-03-20 21:03:50,125 INFO [root] [base.py (base_input:18] - 向元素：('css selector', '[placeholder="验证码"]')输入信息:246810
+2021-03-20 21:03:50,125 INFO [root] [base.py (base_get_element:15] - 定位元素：('css selector', '[placeholder="验证码"]')
+2021-03-20 21:03:52,473 INFO [root] [base.py (base_click:26] - 点击元素('xpath', '//*[text()="登录"]')
+2021-03-20 21:03:52,473 INFO [root] [base.py (base_get_element:15] - 定位元素：('xpath', '//*[text()="登录"]')

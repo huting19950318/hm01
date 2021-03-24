@@ -1,0 +1,1 @@
+allure generate ./report/report -o ./report/allure-reports/
